@@ -1,0 +1,20 @@
+.button{
+    -fx-background-color: #1F4287;
+}
+
+.button:hover{
+    -fx-background-color: #071E3D;
+}
+
+.button:pressed{
+    -fx-background-color: #071E3D;
+}
+
+.btnClose:hover{
+    -fx-background-color: #FF1010;
+}
+.button:focused{
+    -fx-background-color: #071E3D;
+    -fx-border-color: #CDD1D6;
+    -fx-border-width: 0px 0px 0px 3px;
+}
